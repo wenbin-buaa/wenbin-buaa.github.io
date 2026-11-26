@@ -1,5 +1,12 @@
 const researchNews = [
   [
+    "2026-11-25",
+    "Preprint",
+    "VibeVideoAgent",
+    "A coding agent checks the pictures and sound in its draft, then revises the rendering code before delivery.",
+    "#vibevideoagent"
+  ],
+  [
     "2026-11-18",
     "Preprint",
     "VideoACE",
